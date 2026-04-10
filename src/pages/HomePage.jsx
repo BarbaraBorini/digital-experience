@@ -32,9 +32,7 @@ function Navigation() {
 			<form className="page-nav__search" role="search">
 				<input
 					type="search"
-					name="q"
 					placeholder="Search plants..."
-					aria-label="Search"
 				/>
 			</form>
 			<ul className="page-nav__list">
