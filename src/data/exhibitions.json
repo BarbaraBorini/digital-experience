@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "Plants of Africa and America",
+        "category": "Nature",
+        "description": "Explore the diverse flora of Africa and America.",
+        "tags": ["", ""],
+        "image": ""
+    },
+    {
+        "id": 2,
+        "title": "Butterfly Garden",
+        "category": "Insects",
+        "description": "A beautiful garden showcasing a variety of butterfly species.",
+        "tags": ["", ""],
+        "image": ""
+    }
+    
+]
