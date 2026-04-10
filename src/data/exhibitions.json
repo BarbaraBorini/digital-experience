@@ -1,19 +1,50 @@
 [
     {
         "id": 1,
-        "title": "Plants of Africa and America",
+        "title": "Bamboo",
         "category": "Nature",
-        "description": "Explore the diverse flora of Africa and America.",
+        "description": "Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story. ",
         "tags": ["", ""],
-        "image": ""
+        "image": "/images/card1.png"
     },
     {
         "id": 2,
-        "title": "Butterfly Garden",
+        "title": "Daisies",
         "category": "Insects",
-        "description": "A beautiful garden showcasing a variety of butterfly species.",
+        "description": "Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story. ",
         "tags": ["", ""],
-        "image": ""
+        "image": "/images/card2.png"
+    },
+    {
+        "id": 3,
+        "title": "Bottlebush",
+        "category": "Space",
+        "description": "Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story. ",
+        "tags": ["", ""],
+        "image": "/images/card3.png"
+    },
+    {
+        "id": 4,
+        "title": "Monsterra",
+        "category": "Art",
+        "description": "Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story. ",
+        "tags": ["", ""],
+        "image": "/images/card4.png"
+    },
+    {
+        "id": 5,
+        "title": "Kaffir lime plant",
+        "category": "History",
+        "description": "Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story. ",
+        "tags": ["", ""],
+        "image": "/images/card5.png"
+    },
+    {
+        "id": 6,
+        "title": "Banana Plantain",
+        "category": "Technology",
+        "description": "Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes, or even a very very short story. ",
+        "tags": ["", ""],
+        "image": "/images/card6.png"
     }
-    
 ]
